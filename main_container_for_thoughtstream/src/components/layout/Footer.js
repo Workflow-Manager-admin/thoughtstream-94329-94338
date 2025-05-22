@@ -33,13 +33,13 @@ const Footer = () => {
           <div className="footer-section">
             <h3 className="footer-title">Follow Us</h3>
             <div className="social-links">
-              <a href="#" className="social-link" aria-label="Twitter">
+              <a href="https://twitter.com" className="social-link" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
                 <span className="social-icon">Twitter</span>
               </a>
-              <a href="#" className="social-link" aria-label="Instagram">
+              <a href="https://instagram.com" className="social-link" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
                 <span className="social-icon">Instagram</span>
               </a>
-              <a href="#" className="social-link" aria-label="LinkedIn">
+              <a href="https://linkedin.com" className="social-link" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
                 <span className="social-icon">LinkedIn</span>
               </a>
             </div>
